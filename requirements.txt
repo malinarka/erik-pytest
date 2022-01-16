@@ -1,0 +1,7 @@
+# This file describes what Python libraries you are required to have installed
+# for the code in this project to run correctly.
+#
+# Each entry here represents a project that you can read more about at
+# pypi.org/project/<name>
+#
+pytest
